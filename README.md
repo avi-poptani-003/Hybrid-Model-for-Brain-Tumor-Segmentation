@@ -42,6 +42,9 @@ git clone https://github.com/ShubhamGajjar/Hybrid-Model-for-Brain-Tumor-Segmenta
 cd BrainTumorSegmentation
 pip install -r requirements.txt
 ```
+## Results
+![Model_results](https://github.com/ShubhamGajjar/Hybrid-Model-for-Brain-Tumor-Segmentation/assets/66659212/3bf6371e-47c4-4b6d-b243-23fb7da07d34)
+
 ## Contributions
 - [`ShubhamGajjar`](https://github.com/ShubhamGajjar): Model development, integration of preprocessing and visualizations.
 - [`DeepJoshi10`](https://github.com/DeepJoshi10): Collaboration on preprocessing and dataset preparation.
