@@ -42,6 +42,14 @@ git clone https://github.com/ShubhamGajjar/Hybrid-Model-for-Brain-Tumor-Segmenta
 cd BrainTumorSegmentation
 pip install -r requirements.txt
 ```
+
+## Usage
+- 1 : Download the File and Install the requirements
+- 2 : Inside the model Change the path of the dataset
+- 3 : Modify the model if required
+- 4 : Run all the code blocks, Train and save the model file to your desired Directory
+- 5 : Run the code block after the Training to get the predicted Output of the model
+
 ## Results
 ![Model_results](https://github.com/ShubhamGajjar/Hybrid-Model-for-Brain-Tumor-Segmentation/assets/66659212/3bf6371e-47c4-4b6d-b243-23fb7da07d34)
 
