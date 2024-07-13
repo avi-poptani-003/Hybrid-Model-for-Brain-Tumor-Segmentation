@@ -19,7 +19,7 @@ This repository contains various deep learning models for brain tumor segmentati
 - [License](#license)
 
 ## Introduction
-This project aims to provide accurate brain tumor segmentation using advanced U-Net architectures. By leveraging VGG16 as the encoder backbone, these models achieve high performance in medical image segmentation tasks.
+This project aims to provide accurate brain tumor segmentation using advanced U-Net architectures. By leveraging VGG16 as the encoder backbone, these models achieve high performance in medical image segmentation tasks. The models have been trained and tested on linux based Super Computer with an approx training time of 20hr.
 
 ## Models
 The repository contains implementations of the following models:
