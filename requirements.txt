@@ -8,3 +8,4 @@ tensorflow
 imgaug
 tifffile
 pillow
+sklearn
